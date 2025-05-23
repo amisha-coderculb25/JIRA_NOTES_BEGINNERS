@@ -1,0 +1,31 @@
+Jira Basics & Navigation
+
+What is Jira?
+Jira is a project management tool by Atlassian, used to track issues, bugs, and tasks — mainly in Agile teams.
+Commonly used for Scrum & Kanban-based workflows.
+
+Key
+Project: Main container where tasks are organized
+Issue: Any task, bug, or story
+Board: Visual tool (Scrum/Kanban) to track progress
+Backlog: List of tasks waiting to be worked on
+
+Overview:
+Left menu has: Projects, Dashboards, Filters
+Top bar has: Create Issue, Search, Help, Account
+Boards show tasks as cards in columns like To Do → In Progress → Done
+
+Creating a Project:
+Go to “Projects” → Create Project
+Choose between Scrum/Kanban templates
+Name it and set project key (ex: TEST-123)
+
+Creating an Issue:
+Click “Create” on top
+Fill in project name, issue type (task/bug/story), summary
+Can assign it to yourself or team member
+
+Task Flow :
+Task is created → Goes to To Do
+Start working → Move to In Progress
+Completed → Move to Done
