@@ -1,0 +1,25 @@
+Day 2 – Jira Intermediate (Issues, Workflows, Filters)
+
+Issue Types Deep Dive:
+Issue = task/ticket to be tracked.
+Main types: Task, Bug, Story, Epic.
+ Each issue has a summary, Description, Assignee, Status, Priority.
+
+Workflow:
+A workflow defines the life cycle of an issue: "To Do" → "In Progress" → "Done".
+You can customize workflows for different issue types in project settings.
+Each status transition is called a "Transition" (e.g., "Start Progress", "Resolve Issue").
+
+Filters:
+Filters help you find specific issues fast.
+You can use JQL (Jira Query Language) for custom searches.
+Example: `assignee = currentUser() AND status != Done`
+
+Boards:
+Kanban: Continuous flow, best for ongoing work.
+Scrum: Time-boxed sprints with planning and retrospectives.
+
+What I Did Today:
+Created multiple issue types (bug, story)
+Customized a workflow: added “Code Review” status before “Done”
+Tried JQL filters to find open issues assigned to me
