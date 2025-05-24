@@ -1,0 +1,27 @@
+Day 3 – Jira Advanced: Sprint, Boards, Reports, Permissions
+
+Sprint Setup (for Scrum projects):
+- Create a backlog and drag tasks into a sprint.
+- Start Sprint to track progress over a time frame (e.g., 1 or 2 weeks).
+- During sprint: move issues through workflow (To Do → In Progress → Done).
+- End sprint manually; incomplete tasks are moved to backlog or next sprint.
+
+Board Configuration:
+- Kanban and Scrum boards can be customized.
+- Columns map to workflow statuses.
+- Swimlanes and quick filters help focus on specific issue types or assignees.
+
+Reports & Analytics:
+- Velocity Chart: measures how much work was completed in past sprints.
+- Burn-down Chart: visualizes remaining work in a sprint.
+- Control Chart: shows cycle time and identifies bottlenecks.
+
+User Roles & Permissions:
+- Admin can manage users, assign roles, and define permissions per project.
+- Roles include Administrator, Developer, Viewer, etc.
+- Permissions control who can create/edit/transition issues.
+
+What I did:
+- Created a Scrum board and ran a test sprint.
+- Explored velocity and burn-down reports.
+- Reviewed project permission settings and roles.
